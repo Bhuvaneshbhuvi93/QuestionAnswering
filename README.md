@@ -5,6 +5,7 @@ This project demonstrates the usage of the Haystack library for question answeri
 # Technologies Used
 
 Haystack Framework
+
 Hugging face model
 
 # Dataset
